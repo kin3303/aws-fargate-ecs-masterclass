@@ -42,8 +42,7 @@ docker push stacksimplify/nginxapp1
 docker push stacksimplify/nginxapp2
 
 docker push <replace-with-your-docker-hub-id>/nginxapp1
-docker push <replace-with-your-docker-hub-id>/nginxapp2
-docker push <replace-with-your-docker-hub-id>/nginxapp3
+docker push <replace-with-your-docker-hub-id>/nginxapp2 
 ```
 
 ## Step-03: Create Application Load Balancer
